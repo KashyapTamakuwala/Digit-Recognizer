@@ -1,2 +1,3 @@
 # Kaggle
-Machine learning project (practice)
+Digit Recognizer
+
